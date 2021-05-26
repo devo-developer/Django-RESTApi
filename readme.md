@@ -1,4 +1,4 @@
-# Django E-Commerce Application
+# Django RESTApi Creation.
 1. Creation of virtual environments is done by executing the command venv:
 ```bash
 python3 -m venv /path/to/new/virtual/environment
