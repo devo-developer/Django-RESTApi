@@ -1,8 +1,8 @@
 # Django E-Commerce Application
 1. Creation of virtual environments is done by executing the command venv:
-
+```bash
 python3 -m venv /path/to/new/virtual/environment
-
+~~~
 2. Create New project in django
 
 django-admin startproject <project name>
